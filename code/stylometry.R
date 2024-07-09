@@ -1,6 +1,10 @@
 library(stylo)
+library(rstudioapi)
 
-print(getwd())
+# Getting the path of your current open file
+current_path = rstudioapi::getActiveDocumentContext()$path 
+setwd(dirname(current_path ))
+
 x = stylo()
 
 summary(x)
