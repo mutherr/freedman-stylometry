@@ -1,0 +1,12 @@
+Douglass_narrative.txt  36685
+EK_adrift.txt   48436
+EK_ourVisit.txt 8070
+EK_suppressed.txt       9547
+freedman_body1.txt      9558
+freedman_body2.txt      10486
+freedman_intro1.txt     886
+freedman_intro2.txt     2853
+TWH_denmark.txt 11486
+TWH_gabriel.txt 5409
+TWH_leaves.txt  5854
+TWH_natTurner.txt       9681
